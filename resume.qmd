@@ -1,53 +1,41 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eli Barker's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Eli Barker
+Accountant, Computer Programer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="elibarker@outlook.com">elibarker@outlook.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Finishing my Bachelors in accounting and pursuing a path to get a Masters and become a CPA.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Financial accounting and auditing with an emphasis in data science.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Financial Statements, AI, GAAP, Computer Science.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-2024`
+__BYU-I, Rexburg.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2025-2026`
+__Universit of Utah, Salt Lake City__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+N/A
 
 
 
@@ -57,30 +45,24 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+N/A
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+N/A
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2024`
+__Forviz Mazars__, Denver, Colorado
 
-- Warden
-- Minted coins
+- Aduit Intern
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2022-2024`
+__BYU-I__, Rexburg, Idaho
+
+- Financial Accounting Tutor
 
 
 

@@ -5,7 +5,7 @@ website:
   title: "Eli Barker - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: Datanalysis is an essential skill in today’s world as it allows us to make informed and conscious decisions. This portfolio has expanded my ability to analyze and clean data and provides a view into what I am able to accomplish using Pandas in python.
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
